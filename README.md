@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Collin Juurakko's BIOL 812 Assignment</title>
@@ -91,7 +90,7 @@
         transition-duration: 0.4s;
         cursor: pointer;
         margin-left: 610px;
-}
+    }
     
     .btn{
         background-color: white;
